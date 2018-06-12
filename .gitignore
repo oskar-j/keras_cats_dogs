@@ -102,3 +102,8 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+/.idea
+
+# Project specific
+/dataset/test_set/**
+/dataset/training_set/**
