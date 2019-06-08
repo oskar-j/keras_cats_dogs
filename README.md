@@ -1,4 +1,4 @@
-# keras_cats_dogs
+# Cats & dogs in Keras
 A simple project which shows how to start with Keras.. in 5 minutes!
 
 ## Usage
